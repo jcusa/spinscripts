@@ -1,5 +1,5 @@
 #!/bin/bash
 
-touch testjiani
-sudo chmod 777 testjiani
+touch jianifromscript
+sudo chmod 777 jianifromscript
 
