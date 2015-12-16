@@ -1,5 +1,6 @@
 #!/bin/bash
 
-touch jianifromscript
+sudo touch jianifromscript
+pwd
 sudo chmod 777 jianifromscript
 
